@@ -70,7 +70,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation
  
 
-## Dicussion
+## Discussion
 #### Deconvolution and Sub-Pixel Convolution
  * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
  * [SubPixel](https://github.com/Tetrachrome/subpixel)
